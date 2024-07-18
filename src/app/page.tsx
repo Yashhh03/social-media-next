@@ -17,7 +17,7 @@ const Homepage = () => {
           <Feed />
         </div>
       </div>
-      <div className="hidden lg:block">
+      <div className="hidden lg:block w-[30%]">
         <RightMenu />
       </div>
     </div>
